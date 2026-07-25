@@ -21,6 +21,7 @@ Resources for Prof. Golan Levin's *Drawing with Machines* Course<br />Carnegie M
 * **Assignments**: [2021](assignments/2021/README.md), [2024](assignments/2024/README.md), [2025](assignments/2025/README.md)
 * **Daily Notes**: [2021](https://courses.ideate.cmu.edu/60-428/f2021/index.html%3Fp=51.html), [2024](lectures/2024/README.md), [2025](lectures/2025/README.md)
 * **Syllabi**: [2021](syllabus/60-428_syllabus_fall_2021.md), [2024](syllabus/60-225_syllabus_spring_2024.md), [2025](syllabus/60-428_syllabus_fall_2025.md)
+* [**External Resources**](resources/README.md)
 * [**Readings**](readings/README.md)
 
 ---
